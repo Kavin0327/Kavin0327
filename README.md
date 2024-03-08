@@ -27,4 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavin0327&show_icons=true&locale=en" alt="kavin0327" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavin0327&" alt="kavin0327" /></p>
-![](https://leetcard.jacoblin.cool/Kavin2703?site=us)
+<!-- ![](https://leetcard.jacoblin.cool/Kavin2703?site=us) -->
