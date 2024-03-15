@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **k.kavincse@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ITW5WueYnGJpsqmTloRrt-JJ-9N8_mQe/view](https://drive.google.com/file/d/1ITW5WueYnGJpsqmTloRrt-JJ-9N8_mQe/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1C3-XBfBDj8i8Fops3xG5oOmOvb7q-BOo/view?usp=sharing](https://drive.google.com/file/d/1C3-XBfBDj8i8Fops3xG5oOmOvb7q-BOo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
